@@ -1,3 +1,7 @@
+## Download Link
+
+`https://u.mituo.cn/api/metinfo/download/7.0.0`
+
 ### Issue detail    
 
 The **path** parameter is vulnerable to path traversal attacks,     enabling read access to arbitrary files on the server.
